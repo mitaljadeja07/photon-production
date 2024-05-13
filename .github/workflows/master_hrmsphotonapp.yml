@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'hrmsphotonapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35944635569042AD8EBEBEF29DD19B8B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C71CF90C20848E7BA5AA20842108976 }}
